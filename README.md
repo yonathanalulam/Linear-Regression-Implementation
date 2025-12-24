@@ -15,6 +15,7 @@ in cmd and then run
 'python -m notebook ' to open it
 
 
-if you don't have python installed, install it first and then follow with the above steps. 
-
+if you don't have python installed, install it first and then follow with the above steps.
+Currently working on a full python version.
+This was useful in understanding the concept and the steps necessary to properly prep the data 
 
